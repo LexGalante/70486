@@ -2,7 +2,8 @@
 Estudos para o exame 70486
 ## Projetar Arquitetura do aplicativo
 
-## [ASP .NET MVC 5](https://docs.microsoft.com/pt-br/aspnet/mvc/overview/getting-started/introduction/getting-started) & [ASP .NET MVC CORE](https://docs.microsoft.com/pt-br/aspnet/core/tutorials/first-mvc-app/start-mvc?view=aspnetcore-3.1&tabs=visual-studio)
+ - [ASP .NET MVC 5](https://docs.microsoft.com/pt-br/aspnet/mvc/overview/getting-started/introduction/getting-started) 
+ - [ASP .NET MVC CORE](https://docs.microsoft.com/pt-br/aspnet/core/tutorials/first-mvc-app/start-mvc?view=aspnetcore-3.1&tabs=visual-studio)
  - [Controllers](https://docs.microsoft.com/pt-br/aspnet/mvc/overview/getting-started/introduction/adding-a-controller)
  - [Views](https://docs.microsoft.com/pt-br/aspnet/mvc/overview/getting-started/introduction/adding-a-view)
  - [Models](https://docs.microsoft.com/pt-br/aspnet/mvc/overview/getting-started/introduction/adding-a-model)
@@ -29,4 +30,7 @@ Estudos para o exame 70486
  - [Entity Framework Core](https://docs.microsoft.com/pt-br/ef/core/)
  - [ADO .Net DataReaders & DataAdapters](https://docs.microsoft.com/pt-BR/dotnet/framework/data/adonet/dataadapters-and-datareaders?redirectedfrom=MSDN)
  - [Asp Net MVC Session](https://docs.microsoft.com/pt-br/aspnet/core/fundamentals/app-state?view=aspnetcore-3.1)
+ 
+## Desenhar arquitetura de compilação e implementação
+
  
