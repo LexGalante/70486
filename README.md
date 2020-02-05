@@ -53,9 +53,8 @@ Estudos para o exame 70486
  - [Azure DevOps](https://azure.microsoft.com/pt-br/services/devops/) - CI & CD para projetos no azure, construção de pipelines 
  
 ## Projetar a experiência do usuário
- - []() - 
- - []() - 
- - []() - 
- - []() - 
- - []() - 
- - []() - 
+ - [HTML](https://www.w3schools.com/html/) - linguagem de marcação interpretada pela browser
+ - [CSS](https://www.w3schools.com/css/default.asp) - linguagem de estilização interpretada pela browser em cascata
+ - [Razor Pages](https://docs.microsoft.com/pt-br/aspnet/core/razor-pages/?view=aspnetcore-3.1&tabs=visual-studio) - fluxo novo do webforms
+ - [Bootstrap](https://getbootstrap.com/) - framework de desenvolvimento front-end (html5, css3, jquery) 
+ 
