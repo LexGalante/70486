@@ -58,3 +58,17 @@ Estudos para o exame 70486
  - [Razor Pages](https://docs.microsoft.com/pt-br/aspnet/core/razor-pages/?view=aspnetcore-3.1&tabs=visual-studio) - fluxo novo do webforms
  - [Bootstrap](https://getbootstrap.com/) - framework de desenvolvimento front-end (html5, css3, jquery) 
  
+## Desenvolver a experiência do usuário
+ - [Chrome Devtools](https://developers.google.com/web/tools/chrome-devtools) - ferramenta para análise de web
+ - [HTML Semantic](https://www.w3schools.com/html/html5_semantic_elements.asp) - semantica do html
+ - [HTML Acessibility](https://www.w3schools.com/html/html_accessibility.asp) - acessibilidade para leitores de tela
+ - [.Net Globalization](https://docs.microsoft.com/pt-br/aspnet/core/fundamentals/localization?view=aspnetcore-3.1) - globalização e localização para .net core
+ - [ASP Net Core Authentication](https://docs.microsoft.com/pt-br/aspnet/core/security/authentication/?view=aspnetcore-3.1) - fluxo de autenticação no asp net core
+ - [ASP Net Core Authotization](https://docs.microsoft.com/pt-br/aspnet/core/security/authorization/policies?view=aspnetcore-3.1) - fluxos para autorização do usuário
+ - [ASP Net Core Results](https://docs.microsoft.com/pt-br/aspnet/core/web-api/action-return-types?view=aspnetcore-3.1) - resultado possiveis para as ações nos controladores
+ - [ASP Net Core Routing](https://docs.microsoft.com/pt-br/aspnet/core/fundamentals/routing?view=aspnetcore-3.1) - roteamento de controladores e ações no asp net core
+ - [ASP Net Core Serialization](https://docs.microsoft.com/pt-br/dotnet/standard/serialization/) - serialização em net core, XML, Json, protobuf
+ 
+## Solução de problemas da web 
+ 
+ 
