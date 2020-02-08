@@ -70,5 +70,7 @@ Estudos para o exame 70486
  - [ASP Net Core Serialization](https://docs.microsoft.com/pt-br/dotnet/standard/serialization/) - serialização em net core, XML, Json, protobuf
  
 ## Solução de problemas da web 
+ - [IntelliTrace](https://docs.microsoft.com/pt-br/visualstudio/debugger/intellitrace) - analisador de eventos visual studio
+ - []() - 
  
  
