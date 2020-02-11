@@ -71,6 +71,11 @@ Estudos para o exame 70486
  
 ## Solução de problemas da web 
  - [IntelliTrace](https://docs.microsoft.com/pt-br/visualstudio/debugger/intellitrace) - analisador de eventos visual studio
- - []() - 
+ - [Application Insigths](https://docs.microsoft.com/pt-br/azure/azure-monitor/app/app-insights-overview) - gerenciamento de desempenho
+ - [Azure DevLabs](https://azure.microsoft.com/pt-br/services/devtest-lab/) - ambiente para teste
+ 
+## Projetar e implementar segurança
+ - [Asp Net Core Identity](https://docs.microsoft.com/pt-br/aspnet/core/security/authentication/identity?view=aspnetcore-3.1&tabs=visual-studio) - gerenciamento de identidades nativo do asp net core
+ - []
  
  
